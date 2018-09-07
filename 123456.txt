@@ -1,1 +1,13 @@
 123456
+
+public class Student{
+      public String name;
+	  public static int num = 0;
+	  
+	 Public Student(name){
+	    this.name = name;
+		this.num = 100;
+	 }
+	
+	
+}
