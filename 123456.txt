@@ -1,4 +1,5 @@
 123456
+<<<<<<< HEAD
 
 public class Student{
       public String name;
@@ -11,3 +12,8 @@ public class Student{
 	
 	
 }
+=======
+class Student(object):
+	def __init__(self,name):
+		self.name = name;
+>>>>>>> a499f0df81d09a4b1a959e2f41738444b7060eed
